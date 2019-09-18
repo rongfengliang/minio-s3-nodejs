@@ -1,0 +1,9 @@
+{
+  "name": "aws-s3-minio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.530.0"
+  }
+}
